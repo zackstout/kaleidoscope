@@ -30,7 +30,9 @@ html {
   clip-path: url(#polygon);
   height: 200px;
   width: 200px;
+
   background: url(pics/dino.jpg);
+  
   background-size: cover;
   position: absolute;
   transform-origin: top center;
